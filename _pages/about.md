@@ -11,11 +11,11 @@ redirect_from:
 Thanks for visiting my website! Currently in the process of completion, apologize for broken links!
 ---
 
-I am a clinical science student in the [ANDLab](https://fbri.vtc.vt.edu/people-directory/primary-faculty/king-casas.html) in the Psychology Department in [Virginia Tech](https://psyc.vt.edu/). 
+I am a clinical science student in the [ANDLab](http://andlab.psyc.vt.edu) at the [Psychology Department in Virginia Tech](https://psyc.vt.edu/). 
 
-Our lab operates at the intersection of biological, developmental, and clinical psychology; we design studies that investigate social interactions, psychopathology, and response to treatment using functional magnetic resonance imaging (fMRI) and microeconomic games. 
+Our lab operates at the intersection of biological, developmental, and clinical psychology; we design studies that investigate social interactions, psychopathology, and growth across the lifespan using functional magnetic resonance imaging (fMRI) EEG, and other methods. 
 
-If you want to get in touch, feel free to contact me using the links in the sidebar, or.....
+If you want to get in touch, feel free to contact me using the links in the sidebar. Email works best, but I respectfully believe in up to a week for emails before a followup is warranted. 
 
 Talks
 ---
