@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website!
+Thanks for visiting my website! Currently in the process of completion, apologize for broken links!
 ---
 
 I am a clinical science student in the [ANDLab](https://fbri.vtc.vt.edu/people-directory/primary-faculty/king-casas.html) in the Psychology Department in [Virginia Tech](https://psyc.vt.edu/). 
@@ -32,7 +32,7 @@ I am also a clinical psychology PhD student at the [Psychological Services Cente
 Teaching
 ---
 
-In my free time, I also still provide mentoring and outreach to undergraduates at my alma mater, the College of Wooster, via the [Fighting Scots Career Connections](https://wooster.firsthand.co/) website, as well as a handful of high school students. If you're not a Wooster alum and would like advice about grad school, being a first-generation college student, or anything else, feel free to send me an email, and we can set up a time to chat.
+In my free time, I like to hike the various scenic spots of southwest virginia, as well as read, watch sports, 
 
 Other Pursuits
 ---
@@ -40,7 +40,7 @@ If you'd like to learn a little about me outside of school, you can check out th
 
 CV
 ---
-Finally, if you're just here because you want to download my CV, click [CV](https://kelsey-winkeler.github.io/files/KW_CV.pdf) for a PDF.
+Finally, if you're just here because you want to download my CV, click [CV](https://joshnneal.github.io/files/KW_CV.pdf) for a PDF.
 
 
 
